@@ -4,7 +4,7 @@ Laurea-University of Applied Sciences, Tikkurila
 Teemu Näsänen
 
 WEB-development with ME*N stack
-* = R/A
+\* = R/A
 
 I/O OPERATIONS, JSON DATA
 EXPRESS FRAMEWORK
