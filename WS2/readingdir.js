@@ -3,7 +3,7 @@
 Can you output a directory contents to the screen?
 */
 
-const fs = require("fs");
+const fs = require('fs');
 
 let target = fs.readdirSync('./');
 

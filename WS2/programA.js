@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 console.log("Program started");
-let data = fs.readFileSync('example.txt');
+let data = fs.readFileSync("example.txt");
 console.log(data.toString());
 
 for (let i = 0; i < 15; i++) {

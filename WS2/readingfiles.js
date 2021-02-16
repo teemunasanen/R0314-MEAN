@@ -2,7 +2,7 @@ const fs = require("fs");
 
 console.log("Program started");
 
-fs.readFile('example.txt', results);
+fs.readFile("example.txt", results);
 
 function results(err, dataA){
     if(err) return console.error(err);
@@ -10,7 +10,7 @@ function results(err, dataA){
     console.log(dataA.toString());
 }
 
-fs.readFile('another.txt', message);
+fs.readFile("another.txt", message);
 
 function message(err, dataB){
     if(err) return console.error(err);

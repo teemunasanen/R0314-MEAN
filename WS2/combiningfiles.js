@@ -32,5 +32,5 @@ try {
     fs.appendFileSync('combinedFile.txt', '\nI wrote this!');
     console.log('The "data to append" was appended to file!');
   } catch (err) {
-    console.log("Some stupid error")
+    console.log("Some stupid error");
   }
