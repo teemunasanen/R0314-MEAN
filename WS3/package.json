@@ -1,0 +1,24 @@
+{
+  "name": "moviesdemo",
+  "version": "1.0.0",
+  "description": "Demosovellus imdb APIin",
+  "engines": {    "node": "12.x"  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teemunasanen/R0314-MEAN.git"
+  },
+  "keywords": [
+    "JSON",
+    "API"
+  ],
+  "author": "Teemu Nasanen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teemunasanen/R0314-MEAN/issues"
+  },
+  "homepage": "https://github.com/teemunasanen/R0314-MEAN#readme"
+}
