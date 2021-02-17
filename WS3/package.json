@@ -1,8 +1,10 @@
 {
-  "name": "moviesdemo",
+  "name": "node_demo",
   "version": "1.0.0",
-  "description": "Demosovellus imdb APIin",
-  "engines": {    "node": "12.x"  },
+  "description": "A sample Node.js app in Heroku",
+  "engines": {
+    "node": "12.x"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
