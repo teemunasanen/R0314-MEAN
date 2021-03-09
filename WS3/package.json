@@ -1,26 +1,15 @@
 {
-  "name": "node_demo",
+  "name": "api-na",
   "version": "1.0.0",
   "description": "A sample Node.js app in Heroku",
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   },
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/teemunasanen/R0314-MEAN.git"
-  },
-  "keywords": [
-    "JSON",
-    "API"
-  ],
-  "author": "Teemu Nasanen",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/teemunasanen/R0314-MEAN/issues"
-  },
-  "homepage": "https://github.com/teemunasanen/R0314-MEAN#readme"
+  "author": "",
+  "license": "ISC"
 }
